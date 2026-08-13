@@ -1,2 +1,9 @@
-# Online--Examination--System-web
-this is online examination final web site
+Candidate:
+
+- Username: `candidate`
+- Password: `password`
+
+Admin:
+
+- Username: `admin`
+- Password: `password`
